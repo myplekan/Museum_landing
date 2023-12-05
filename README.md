@@ -1,4 +1,6 @@
 # Museum description:
+
+1. Short Project Description:
     - Welcome to the virtual Art Museum! This project is created to showcase current exhibitions and events, as well as to explore the gallery and schedule. Embark on an exciting journey into the world of art and culture with us.
 2. Technologies Used:
     - HTML5 and CSS3 for content markup and styling.
